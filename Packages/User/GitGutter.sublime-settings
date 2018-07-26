@@ -1,0 +1,6 @@
+// GitGutter Settings - User
+{
+	"git_binary": "D:/Program Files/Git/bin/git.exe",
+	"ignore_whitespace": "all",
+	// "git_gutter_enable": true
+}
